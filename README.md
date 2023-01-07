@@ -20,12 +20,12 @@ I'm a full-stack developer 👨‍💻 working at [@OKP4](https://okp4.network) 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" /></a>  
 <a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="40" height="40" /></a>  
+<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 <a href="https://jquery.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" width="40" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /></a> 
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" width="40" height="40" /></a>  
 <a href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="40" height="40" /></a>  
 <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="40" height="40" /></a>  
