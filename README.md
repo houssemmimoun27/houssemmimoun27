@@ -36,7 +36,6 @@ I'm a full-stack developer 👨‍💻 working at [@OKP4](https://okp4.network) 
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" width="40" height="40" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" /></a>  
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>  
